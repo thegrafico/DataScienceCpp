@@ -1,0 +1,9 @@
+﻿  app.cpp
+C:\Users\thegr\source\repos\DataScienceCpp\app.cpp(121,32): warning C4101: 'e': unreferenced local variable
+C:\Users\thegr\source\repos\DataScienceCpp\app.cpp(165,23): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  16 of 1107 functions ( 1.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    23 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  DataScienceCpp.vcxproj -> C:\Users\thegr\source\repos\DataScienceCpp\Release\DataScienceCpp.exe

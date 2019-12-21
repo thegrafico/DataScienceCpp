@@ -1,0 +1,4 @@
+﻿  app.cpp
+C:\Users\thegr\source\repos\DataScienceCpp\app.cpp(120,32): warning C4101: 'e': unreferenced local variable
+C:\Users\thegr\source\repos\DataScienceCpp\app.cpp(164,23): warning C4018: '<': signed/unsigned mismatch
+  DataScienceCpp.vcxproj -> C:\Users\thegr\source\repos\DataScienceCpp\Debug\DataScienceCpp.exe
